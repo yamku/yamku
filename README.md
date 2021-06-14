@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning AWS, Golang, Docker, Kubernetes
 - 💞️ I’m looking to collaborate on Golang projects, AWS 
 - 📫 How to reach me  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bijay-karki/) &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/yamku/yamku)
-- 
+- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/yamku/yamku)
+
 
 
 <!---
