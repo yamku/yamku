@@ -2,7 +2,8 @@
 - 👀 I’m interested in Cloud Computing, Microservices and future tech.
 - 🌱 I’m currently learning AWS, Golang, Docker, Kubernetes
 - 💞️ I’m looking to collaborate on Golang projects, AWS 
-- 📫 How to reach me  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bijay-karki/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/yamku/yamku)
+- 📫 How to reach me  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bijay-karki/) 
+- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/yamku/yamku)
 
 
 <!---
